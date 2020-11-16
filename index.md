@@ -6,21 +6,21 @@
 
 ## Week 3 (November 16)
 
-[Here](files/HW1/R_examples.html) is my approach for Homework 1.
+<!-- [Here](files/HW1/R_examples.html) is my approach for Homework 1.
 
-`## Week 3 (November 16)
+<!-- ## Week 3 (November 16)
 
-`[Here](files/HW1/R_examples.html) is my approach for Homework 2.
+[Here](files/HW1/R_examples.html) is my approach for Homework 2.
 
-`## Week 3 (November 16)
+## Week 3 (November 16)
 
-`[Here](files/HW1/R_examples.html) is my approach for Homework 3.
+[Here](files/HW1/R_examples.html) is my approach for Homework 3.
 
-`## Week 3 (November 16)
+## Week 3 (November 16)
 
-`[Here](files/HW1/R_examples.html) is my approach for Homework 4.
+[Here](files/HW1/R_examples.html) is my approach for Homework 4.
 
-`## Week 3 (November 16)
+## Week 3 (November 16)
 
-`[Here](files/HW1/R_examples.html) is my approach for Homework 5.
-
+[Here](files/HW1/R_examples.html) is my approach for Homework 5.
+ -->
