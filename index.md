@@ -1,12 +1,14 @@
 # Example Progress Journal
 
+
+
 ## Week 0 (October 26)
 
 [Here](files/HW0/R_examples.html) is my 5 interesting R examples.
 
 ## Week 3 (November 16)
 
-<!-- [Here](files/HW1/R_examples.html) is my approach for Homework 1.
+[Here](files/HW1/HW1.html) is my approach for Homework 1.
 
 <!-- ## Week 3 (November 16)
 
