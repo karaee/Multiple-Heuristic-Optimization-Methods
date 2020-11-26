@@ -8,6 +8,8 @@
 
 ## Week 3 (November 16)
 
+[Here](files/HW1/IE582_Fall20_Homework1.pdf) is the description of Homework 1.
+
 [Here](files/HW1/HW1.html) is my approach for Homework 1.
 
 <!-- ## Week 3 (November 16)
