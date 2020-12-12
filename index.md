@@ -2,29 +2,47 @@
 
 
 
-## Week 0 (October 26)
+## HW0 (October 26)
 
 [Here](files/HW0/R_examples.html) is my 5 interesting R examples.
 
-## Week 3 (November 16)
+## HW1 (November 16)
 
 [Here](files/HW1/IE582_Fall20_Homework1.pdf) is the description of Homework 1.
 
 [Here](files/HW1/HW1.html) is my approach for Homework 1.
 
-<!-- ## Week 3 (November 16)
+[Here](files/HW1/HW1.ipynb) is the Jupyter Notebook used.
 
-[Here](files/HW1/R_examples.html) is my approach for Homework 2.
+## HW2 (December 12)
 
-## Week 3 (November 16)
+[Here](files/HW1/IE582_Fall20_Homework2.pdf) is the description of Homework 2.
 
-[Here](files/HW1/R_examples.html) is my approach for Homework 3.
+[Here](files/HW1/HW2.html) is my approach for Homework 2.
 
-## Week 3 (November 16)
+[Here](files/HW1/HW2.ipynb) is the Jupyter Notebook used.
 
-[Here](files/HW1/R_examples.html) is my approach for Homework 4.
+<!-- ## HW3 (December 12)
 
-## Week 3 (November 16)
+[Here](files/HW1/IE582_Fall20_Homework2.pdf) is the description of Homework 2.
 
-[Here](files/HW1/R_examples.html) is my approach for Homework 5.
+[Here](files/HW1/HW2.html) is my approach for Homework 2.
+
+[Here](files/HW1/HW2.ipynb) is the Jupyter Notebook used.
+
+## HW4 (December 12)
+
+[Here](files/HW1/IE582_Fall20_Homework2.pdf) is the description of Homework 2.
+
+[Here](files/HW1/HW2.html) is my approach for Homework 2.
+
+[Here](files/HW1/HW2.ipynb) is the Jupyter Notebook used.
+
+## HW5 (December 12)
+
+[Here](files/HW1/IE582_Fall20_Homework2.pdf) is the description of Homework 2.
+
+[Here](files/HW1/HW2.html) is my approach for Homework 2.
+
+[Here](files/HW1/HW2.ipynb) is the Jupyter Notebook used.
  -->
