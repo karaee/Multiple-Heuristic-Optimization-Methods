@@ -16,11 +16,11 @@
 
 ## HW2 (December 12)
 
-[Here](files/HW1/IE582_Fall20_Homework2.pdf) is the description of Homework 2.
+[Here](files/HW2/IE582_Fall20_Homework2.pdf) is the description of Homework 2.
 
-[Here](files/HW1/HW2.html) is my approach for Homework 2.
+[Here](files/HW2/HW2.html) is my approach for Homework 2.
 
-[Here](files/HW1/HW2.ipynb) is the Jupyter Notebook used.
+[Here](files/HW2/HW2.ipynb) is the Jupyter Notebook used.
 
 <!-- ## HW3 (December 12)
 
