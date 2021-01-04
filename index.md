@@ -24,7 +24,7 @@
 
 ## HW3 (January 4)
 
-[Here](files/HW3/IE582_Fall20_Homework3.pdf) is the description of Homework 3.
+[Here](files/HW3/IE582_Fall2020_Homework3.pdf) is the description of Homework 3.
 
 [Here](files/HW3/HW3.html) is my approach for Homework 3.
 
