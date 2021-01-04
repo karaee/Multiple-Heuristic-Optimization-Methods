@@ -22,15 +22,15 @@
 
 [Here](files/HW2/HW2.ipynb) is the Jupyter Notebook used.
 
-<!-- ## HW3 (December 12)
+## HW3 (January 4)
 
-[Here](files/HW1/IE582_Fall20_Homework2.pdf) is the description of Homework 2.
+[Here](files/HW3/IE582_Fall20_Homework3.pdf) is the description of Homework 3.
 
-[Here](files/HW1/HW2.html) is my approach for Homework 2.
+[Here](files/HW3/HW3.html) is my approach for Homework 3.
 
-[Here](files/HW1/HW2.ipynb) is the Jupyter Notebook used.
+[Here](files/HW3/HW3.ipynb) is the Jupyter Notebook used.
 
-## HW4 (December 12)
+<!-- ## HW4 (December 12)
 
 [Here](files/HW1/IE582_Fall20_Homework2.pdf) is the description of Homework 2.
 
