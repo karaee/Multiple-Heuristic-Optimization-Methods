@@ -32,9 +32,11 @@
 
 ## Project (February 15)
 
-[Here](files/Project/IE582_Fall20_Project.pdf) is the description of Final Project.
+[Here](files/Project/IE582_Fall20_Project.pdf) is the description of the Final Project.
 
-[Here](files/Project/Project.html) is my approach for Final Project.
+[Here](files/Project/Project.html) is our approach for the Final Project.
+
+[Here](files/Project/IE582Report.pdf) is our report for the Final Project.
 
 [Here](files/Project/Project.ipynb) is the Jupyter Notebook used.
 
