@@ -30,6 +30,14 @@
 
 [Here](files/HW3/HW3.ipynb) is the Jupyter Notebook used.
 
+## HW5 (ebruary 20)
+
+[Here](files/HW5/IE582_Fall2020_Homework5.pdf) is the description of Homework 5.
+
+[Here](files/HW5/HW5.html) is my approach for Homework 5.
+
+[Here](files/HW5/HW5.ipynb) is the Jupyter Notebook used.
+
 ## Project (February 15)
 
 [Here](files/Project/IE582_Fall20_Project.pdf) is the description of the Final Project.
