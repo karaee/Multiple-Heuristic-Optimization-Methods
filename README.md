@@ -1,3 +1,3 @@
-## Boğaziçi University IE 582 Data Miningg and Statistical Learning Course
-## By Dr. Mustafa Gökçe Baydoğan
-## Repository For All Course Assignments
+# Boğaziçi University IE 582 Course Assignments
+IE 582 - Data Mining and Statistical Learning
+Lecturer: Dr. Mustafa Gökçe Baydoğan
