@@ -6,6 +6,6 @@ This repository is imported from IE 582 course repository which consists of my w
 
 Repository includes 5 different data science assignments and a final group project.
 
-Assignment descriptions and solutions can be seen on the page: https://bu-ie-582.github.io/fall20-karaee/
+Assignment descriptions and solutions can be seen on the page: https://karaee.github.io/BU-IE582-Assigments/
 
 Link to the original repository: https://github.com/BU-IE-582/fall20-karaee  
