@@ -30,7 +30,7 @@
 
 [Here](files/HW3/HW3.ipynb) is the Jupyter Notebook used.
 
-## HW5 (ebruary 20)
+## HW5 (February 20)
 
 [Here](files/HW5/IE582_Fall20_HW5.pdf) is the description of Homework 5.
 
