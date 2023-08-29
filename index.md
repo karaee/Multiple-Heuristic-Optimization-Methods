@@ -11,7 +11,7 @@
 ## HW2
 [Here](files/HW2/HW2 Instructions.pdf) is the description of Homework 2.
 
-[Here](files/HW2/HW2 Report) is my approach for Homework 2.
+[Here](files/HW2/HW2 Report.pdf) is my approach for Homework 2.
 
 [Here](files/HW2/HW2.ipynb) is the Jupyter Notebook used.
 
