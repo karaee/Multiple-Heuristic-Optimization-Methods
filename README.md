@@ -1,11 +1,9 @@
-# Boğaziçi University IE 582 Course Assignments
-**Course:** IE 582 - Statistical Learning for Data Mining  
-**Lecturer:** Dr. Mustafa Gökçe Baydoğan
+# Boğaziçi University IE 517 Course Assignments
+**Course:** IE 517 - Heuristic Methods in Optimization  
+**Lecturer:** Prof. Necati Aras
 
-This repository is imported from IE 582 course repository which consists of my works for the course and updated afterwards
+This repository consists of my works for the IE 517 course and updated afterwards
 
-Repository includes 5 different data science assignments and a final group project.
+Repository includes 3 different heuristic optimization assignments and a final project.
 
-Assignment descriptions and solutions can be seen on the page: https://karaee.github.io/BU-IE582-Assigments/
-
-Link to the original repository: https://github.com/BU-IE-582/fall20-karaee  
+Assignment descriptions and solutions can be seen on the page: https://karaee.github.io/BU-IE571-Assignments/
